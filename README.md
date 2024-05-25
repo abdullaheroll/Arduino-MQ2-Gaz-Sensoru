@@ -35,3 +35,11 @@ Bu projede, bir gaz sensörü ile çevredeki gaz seviyesini algılayan ve sonuç
 
 ## Kullanım
 Bu projeyi kullanarak, gaz sensöründen alınan verileri LCD ekranda görüntüleyebilir ve belirli bir gaz seviyesi aşıldığında sesli uyarı alabilirsiniz. Bu sistem, evlerde, ofislerde veya endüstriyel ortamlarda güvenlik amacıyla kullanılabilir.
+
+## Devre Tasarımı:
+
+![alt text](https://raw.githubusercontent.com/abdullaheroll/Arduino-MQ2-Gaz-Sensoru/main/DevreTasarimi.png)
+
+## Elektrik Devre Tasarımı:
+
+![alt text](https://raw.githubusercontent.com/abdullaheroll/Arduino-MQ2-Gaz-Sensoru/main/elektrikDevreTasarimi.png)
